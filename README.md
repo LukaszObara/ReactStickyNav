@@ -1,2 +1,0 @@
-# ReactStickyNav
-Created with CodeSandbox
